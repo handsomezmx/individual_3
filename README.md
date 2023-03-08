@@ -1,7 +1,10 @@
 # Stock Market Kafka Real Time Data Engineering Project
 
 ## Introduction 
-In this project, you will execute an End-To-End Data Engineering Project on Real-Time Stock Market Data using Kafka.
+I will execute an End-To-End Data Engineering Project on Real-Time Stock Market Data using Kafka.
+
+Apache Kafka is a real-time data streaming technology capable of handling trillions of events per day. Initially conceived as a messaging queue, Kafka is based on an abstraction of a distributed commit log. Since being created and open sourced in 2011, Kafka has since become the industry standard for working with data in motion.
+
 
 We are going to use different technologies such as Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.
 
